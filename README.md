@@ -5,7 +5,7 @@ Each notebook follows the class slides and uses airline examples. Open one in Co
 
 | # | Notebook | Open |
 |---|---|---|
-| 0 | Colab intro: get flight delays with SQL, then one regression two ways (explain vs. predict) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kjmobile/lb2/blob/main/0_colab_intro.ipynb) |
+| 0 | Colab intro: get flight delays with SQL, then one regression for two goals (statistical inference vs. machine-learning prediction) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kjmobile/lb2/blob/main/0_colab_intro.ipynb) |
 | 1 | From a straight line to a curve, and a better input: airfares | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kjmobile/lb2/blob/main/1_LM_Linear_to_Polynomial_Airfares.ipynb) |
 | 2 | Multiple regression and one-hot encoding: does the leading airline change fares? | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kjmobile/lb2/blob/main/2_LM_Multiple_Regression_one_hot_encoding_Airfares.ipynb) |
 | A 0–2 | **Assignment (0-2):** simple and multiple regression for flight delays, with the weather as a category. Do it after notebooks 0–2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kjmobile/lb2/blob/main/0-2_assignment.ipynb) |
