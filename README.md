@@ -9,6 +9,7 @@ Each notebook follows the class slides and uses airline examples. Open one in Co
 | 0 | Assignment: multiple regression for flight delays | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kjmobile/lb2/blob/main/0_assignment.ipynb) |
 | 1 | From a straight line to a curve, and a better input: airfares | W3.1 113–119 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kjmobile/lb2/blob/main/1_LM_Linear_to_Polynomial_Airfares.ipynb) |
 | 2 | Multiple regression and one-hot encoding: does the leading airline change fares? | W3.1 118, 120, 121 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kjmobile/lb2/blob/main/2_LM_Multiple_Regression_one_hot_encoding_Airfares.ipynb) |
+| 3 | Feature engineering and regularization: polynomial features, overfitting, Lasso and Ridge | W3.1 119, 123 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kjmobile/lb2/blob/main/3_LM_Feature_engineering_and_regularization_Airfares.ipynb) |
 
 In every notebook, look for **Your turn**: write the key modeling lines yourself, then open *Show answer* to check.
 
